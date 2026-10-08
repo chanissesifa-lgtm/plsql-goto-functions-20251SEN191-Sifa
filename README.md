@@ -80,7 +80,7 @@ plsql-goto-functions-20251SEN191-Sonia/
 #### Screenshots — Part B:
 | Task | Description | Screenshot Link |
 | :--- | :--- | :--- |
-| **B5** | Multi-function SQL Query Result Grid | [B5_select_output.jpg](screenshots/B5_select_output.jpg) |
+| **B5** | Multi-function SQL Query Result Grid | [B5_select_output.jpg](screenshots/B5_select_output.JPG) |
 
 ---
 
@@ -90,7 +90,7 @@ plsql-goto-functions-20251SEN191-Sonia/
 #### Screenshots — Part C:
 | Task | Description | Screenshot Link |
 | :--- | :--- | :--- |
-| **C1** | Payroll Validation Test Output | [C1_output.jpg](screenshots/C1_output.jpg) |
+| **C1** | Payroll Validation Test Output | [C1_output.jpg](screenshots/C1_output.JPG) |
 
 ---
 
